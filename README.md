@@ -14,7 +14,6 @@ Before you begin, ensure you have the following installed on your system:
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
 - An [OpenAI API key](https://platform.openai.com/)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Setup
 
